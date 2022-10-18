@@ -1,3 +1,22 @@
+if you get this error 
+```'react-scripts' is not recognized as an internal or external command,
+operable program or batch file.```
+
+try
+```# 👇️ With npm
+npm install react-scripts
+
+# ----------------------------------------------
+
+# 👇️ With yarn
+yarn add react-scripts
+```
+
+# npm start 
+Hopefully it will work and you will get a pretty page on
+http://localhost:3000/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

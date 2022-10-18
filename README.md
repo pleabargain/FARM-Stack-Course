@@ -1,5 +1,15 @@
+I had to 
+* pip install motor
+
+then:
+* uvicorn main:app --reload
+
+
 # to do
-* test it
+    * works : http://127.0.0.1:8000/docs
+    * 
+
+
 
 
 # original readme below with some fixes and a note or two from me
