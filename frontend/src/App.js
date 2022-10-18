@@ -46,7 +46,7 @@ function App() {
       <TodoView todoList={todoList} />
       </div>
       </div>
-      <h6 className="card text-dark bg-warning py-1 mb-0" >Copyright 2021, All rights reserved &copy;</h6>
+      <h6 className="card text-dark bg-warning py-1 mb-0" >check out the video here: https://www.youtube.com/watch?v=OzUzrs8uJl8</h6>
     </div>
   );
 }

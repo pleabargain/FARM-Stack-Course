@@ -35,7 +35,7 @@ app.add_middleware(
 
 @app.get("/")
 async def read_root():
-    return {"Hello": "World"}
+    return {"Hello": "World. It's a tradition right?"}
 
 @app.get("/api/todo")
 async def get_todo():

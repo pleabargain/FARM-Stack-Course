@@ -4,11 +4,19 @@ I had to
 then:
 * uvicorn main:app --reload
 
+# file structure of this project
+It's strange. It has two readmes.
 
-# to do
+You have to start FastAPI ```uvicorn main:app --reload``` in one console and ```npm start``` in another. 
+
+# to test
     * works : http://127.0.0.1:8000/docs
     * 
 
+# advice
+* watch the video first: https://www.youtube.com/watch?v=OzUzrs8uJl8&t
+* understand what is going on with React 
+* understand the basics of node
 
 
 
